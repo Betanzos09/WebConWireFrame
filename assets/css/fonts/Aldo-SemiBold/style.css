@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Aldo-SemiBold";
+  src: url("./fonts/Aldo.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Aldo.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Aldo.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Aldo.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Aldo.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Aldo.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Aldo.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

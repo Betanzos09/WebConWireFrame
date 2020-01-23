@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Aller";
+  src: url("./fonts/Aller.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Aller.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Aller.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Aller.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Aller.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Aller.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Aller.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
