@@ -1134,6 +1134,12 @@ section#skills .section_purchase .button_gray h5:hover{
     background: rgb(46, 45, 45);
 }
 
+footer{
+    height: 100px;
+    line-height: 100px;
+    
+}
+
 @media screen and (max-width: 1200px){
 
     nav {
